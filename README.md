@@ -2,7 +2,7 @@
 
 <a href="https://latexguide.org"><img src="https://latex.net/wp-content/uploads/2026/02/latex-guide-3-cover-small.png" alt="Book cover" align="right"></a>
 
-This is the code repository for [LaTeX Beginner's Guide](https://latexguide.org), published by Packt.
+This is the code repository for [LaTeX Beginner's Guide](https://latexguide.org), published by Packt, 2026.
 
 **Write research papers, theses, and presentations with professional formatting, math, and citations**
 
