@@ -3,9 +3,9 @@ published in March 2024. The first edition (2015) has been revised, and
 all code examples have been updated to work with the latest LaTeX
 classes and packages (2024). In 2026, it has been translated to Japanese
 and will be released in Summer, by Asakura Publishing, Tokyo. You can find
-it at [TeX.jp](https://tex.jp).
+it at [TeX.jp](https://tex.jp/about/).
 
-Check it out here: [LaTeX-Cookbook.net](https://latex-cookbook.net/about)
+Check out the book here: [LaTeX-Cookbook.net](https://latex-cookbook.net/about)
 You will find the code of the book examples together with an online
 LaTeX Compiler, reviews, errata, and additional material.
 
