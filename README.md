@@ -24,7 +24,7 @@ If you feel this book is for you, get your copy today!
 
 **Who this book is for:**
 
-I wrote this book for students, researchers, educators, and professionals in academia, STEM, and publishing who need to create structured, high-quality documents. Whether you're preparing research papers, technical reports, books, or presentations, this guide simplifies LaTeX for beginners while offering advanced features for experienced users. No prior LaTeX knowledge is required, making it ideal for anyone looking to skill up in professional document formatting, citations, and PDF production with ease.
+This book is written for students, researchers, educators, and professionals in academia, STEM, and publishing who need to create structured, high-quality documents. Whether you're preparing research papers, technical reports, books, or presentations, this guide simplifies LaTeX for beginners while offering advanced features for experienced users. No prior LaTeX knowledge is required, making it ideal for anyone looking to skill up in professional document formatting, citations, and PDF production with ease.
 
 ### Related products
 * LaTeX Cookbook [[Packt]](https://www.packtpub.com/en-de/product/latex-cookbook-9781835080320) [[Amazon]](https://www.amazon.com/LaTeX-Cookbook-practical-ready-use/dp/1835080324) [[Book website]](https://latex-coookbook.net)
@@ -34,10 +34,10 @@ I wrote this book for students, researchers, educators, and professionals in aca
 ## About the Author
 **Stefan Kottwitz** studied mathematics in Jena and Hamburg. He works as a network and IT security engineer at Lufthansa Industry Solutions.
 
-For numerous years, Stefan has been providing LaTeX support on internet forums. He manages the web forums [LaTeX.org](https://latex.org) and [goLaTeX.de](https://golatex.de), along with the question-and-answer platforms [TeXwelt.de](https://texwelt.de) and [TeXnique.fr](https://texnique.fr). He maintains the TeX graphics gallery sites [TeXample.net](https://texample.net), [TikZ.net](https://tikz.net), and [PGFplots.net](https://pgfplots.net), the [TeXlive.net](https://texlive.net) online compiler, the [TeXdoc.org](https://texdoc.org) documentation service, and the [CTAN.net](https://ctan.net) software mirror.
+For over 15 years, Stefan has been providing LaTeX support on internet forums. He manages the web forums [LaTeX.org](https://latex.org) and [goLaTeX.de](https://golatex.de), along with the question-and-answer platforms [TeXwelt.de](https://texwelt.de) and [TeXnique.fr](https://texnique.fr). He maintains the TeX graphics gallery sites [TeXample.net](https://texample.net), [TikZ.net](https://tikz.net), and [PGFplots.net](https://pgfplots.net), the [TeXlive.net](https://texlive.net) online compiler, the [TeXdoc.org](https://texdoc.org) documentation service, and the [CTAN.net](https://ctan.net) software mirror, altogether more than 30 LaTeX sites across Europe, the UK, the US, and Japan.
 
-A moderator of the TeX Stack Exchange site and [matheplanet.com](https://matheplanet.com), he publishes ideas and news from the TeX world on his blogs [LaTeX.net](https://latex.net) and [TeX.co](https://tex.co).
+He has served as a moderator on the TeX Stack Exchange site for over fifteen years and shares ideas and news from the TeX world on his blogs [LaTeX.net](https://latex.net) and [TeX.co](https://tex.co).
 
-He also authored the *LaTeX Beginner’s Guide* in 2011, with the second edition in 2021, and *LaTeX Graphics with TikZ* in 2023, all published by Packt.
+He is the author of the LaTeX Beginner’s Guide (2011), the LaTeX Cookbook (2015), and LaTeX Graphics with TikZ (2023), also translated into Japanese.
 
 
