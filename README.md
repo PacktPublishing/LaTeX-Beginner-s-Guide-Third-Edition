@@ -31,6 +31,8 @@ This book is written for students, researchers, educators, and professionals in 
 
 * LaTeX Graphics with TikZ [[Packt]](https://www.packtpub.com/product/latex-graphics-with-tikz/9781804618233?_gl=1*sr395t*_gcl_au*NDY0ODM5OTgzLjE3MDU0NzgwMzk.*_ga*MjAwMDcyNTc1My4xNjk3NTE5Mzc3*_ga_Q4R8G7SJDK*MTcwOTI5NDk3NS4xOS4xLjE3MDkyOTU0NTQuNi4wLjA.) [[Amazon]](https://www.amazon.com/LATEX-Graphics-TikZ-Practitioners-diagrams/dp/1804618233/ref=sr_1_1_sspa?crid=34QUG6J8PUW81&dib=eyJ2IjoiMSJ9.pB58PWP5iGEPClkbfRWFp4bzgQJe_jSmXvUW_5oW3RChlZEm516oY7Fee6e_DvDuRaRJaGob8E5fC8w9o2alcg.gsgM3Hi1x3oyuDQFjHV8jlUAsJa2JBjAw0TC9BN-eAQ&dib_tag=se&keywords=LaTeX+Graphics+with+TikZ&qid=1709295469&sprefix=latex+graphics+with+tikz%2Caps%2C306&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) [[Book website]](https://tikz.org)
 
+For Japanese translations, see [TeX.jp](https://tex.jp/about/) and [TikZ.jp](https://tikz.jp). You can find a Russian translation at [DMK Press](https://dmkpress.com/catalog/computer/graphics/978-5-93700-123-9/).
+
 ## About the Author
 **Stefan Kottwitz** studied mathematics in Jena and Hamburg. He works as a network and IT security engineer at Lufthansa Industry Solutions.
 
