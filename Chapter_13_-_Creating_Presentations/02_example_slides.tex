@@ -1,0 +1,56 @@
+\documentclass[12pt]{beamer}
+\usetheme{Warsaw}
+\title{\LaTeX\ Beginner's Slides}
+\author{Stefan Kottwitz}
+\institute{Packt Publishing}
+\date{April 1, 2026}
+\begin{document}
+\section{Understanding Overlays}
+\begin{frame}
+  \begin{itemize}
+  \item Keep one clear idea per slide
+  \pause
+  \item Use short phrases, not full sentences
+  \pause
+  \item Use large, readable fonts
+\end{itemize}
+\end{frame}
+\begin{frame}
+\begin{itemize}
+\item<1-> Use a consistent color scheme throughout the slides
+\item<2-> Ensure sufficient contrast for readability
+\item<3-> Keep visual elements balanced on the slide
+\end{itemize}
+\end{frame}
+\section{Arranging columns}
+\begin{frame}
+  \begin{columns}
+    \begin{column}{0.55\textwidth}
+      What I don't want to say:
+      \begin{itemize}
+        \item This slide looked better yesterday
+        \item Just believe this
+        \item I'll skip this quickly
+        \item Time is running out
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.4\textwidth}
+      \includegraphics[width=4cm]{ctanlion.pdf}
+    \end{column}
+  \end{columns}
+\end{frame}
+\section{Using blocks}
+\begin{frame}
+\begin{block}{Using blocks}
+  You give the block a title and place the content inside it.
+\end{block}
+\begin{exampleblock}{You see}
+  That's how a block looks in a positive way.
+\end{exampleblock}
+\begin{alertblock}{Warning}
+  Use blocks sparingly and intentionally. Not like on this slide.
+\end{alertblock}
+\end{frame}
+\end{document}
+
+
