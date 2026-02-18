@@ -3,14 +3,18 @@ published in March 2024. The first edition (2015) has been revised, and
 all code examples have been updated to work with the latest LaTeX
 classes and packages (2024).
 
+Check it out here: [LaTeX-Cookbook-net](https://latex-cookbook.net/about)
+You will find the code of the book examples together with an online
+LaTeX Compiler, reviews, errata, and additional material.
+
 The new edition includes additional examples demonstrating how to:
 
--   Create fancy word clouds\
--   Program with Lua in LaTeX\
--   Simulate computer screen output\
--   Design puzzles\
--   Draw atomic orbitals\
--   Visualize chemical elements in the periodic table\
+-   Create fancy word clouds
+-   Program with Lua in LaTeX
+-   Simulate computer screen output
+-   Design puzzles
+-   Draw atomic orbitals
+-   Visualize chemical elements in the periodic table
 -   Create scientific and technical diagrams
 
 [![LaTeX Cookbook
