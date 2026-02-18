@@ -1,0 +1,16 @@
+% Compile with LuaLaTeX
+\documentclass{article}
+\usepackage{luacode}
+\begin{luacode}
+  function GCD(a,b)
+    if b ~= 0 then
+        return GCD(b, a % b)
+    else
+        return a
+    end
+  end
+\end{luacode}
+\begin{document}
+The greatest common divisor of 96 and 36 is
+\directlua{tex.sprint(GCD(96,36))}.
+\end{document}%                                                                                                                                                                                                                                                
